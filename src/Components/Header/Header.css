@@ -1,0 +1,15 @@
+.icon{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+    color:rgb(241, 52, 153)
+}
+.nav-link{
+    color:white;
+}
+.header{
+  background-color: rgba(4, 141, 253, 0.774);
+}
+.nav-link:hover{
+  background-color: rgb(197, 154, 197);
+}

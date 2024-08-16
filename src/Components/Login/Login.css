@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(68, 67, 67);
+}
+    button:hover{
+    background-color: rgb(122, 122, 254);
+}
+.input-field{
+    width:250px;
+    margin:auto;
+    color:rgb(63, 63, 63);
+    background-color: hsla(183, 89%, 64%, 0.621);
+}
+.Login{
+    margin:auto;
+    width:500px;
+    height:300px;
+    border:1px solid gray;
+    box-shadow: 3px 3px 3px 0 rgb(91, 12, 71);
+    padding-top: 50px;
+    text-align:center;
+    background-color: rgb(237, 240, 240);
+    border-radius: 10px;
+   
+}
+.spinner{
+    position:absolute;
+    top:23%;
+    left:50%;
+    }

@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(188, 178, 247);
+}
+.product-container{
+    width:40%;
+    height:50%;
+    background-color: rgb(244, 239, 239);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.785);
+    margin:5%;
+
+}   
+.picture{
+    width:40%;
+
+}

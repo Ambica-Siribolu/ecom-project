@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(200, 241, 249);
+}
+  .description{
+    white-space:nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .container{
+    width:25%;
+    height:25%;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    }
+    .container:hover{
+        transform:scale(1.1);
+       }
+  .image{
+    height:50%;
+    width:50%;
+  }
+  .button1{
+    background-color: rgb(68, 31, 102);
+    color:white;
+  }
+  .button:hover{
+    background-color: rgb(191, 130, 248);
+  }

@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://img.freepik.com/free-vector/online-shopping-concept-illustration-with-words-people_613284-2431.jpg?w=1060&t=st=1723819961~exp=1723820561~hmac=8cf648d95239ca50ce0f13f9c96056dcdb213b7b933371e3ba564027097c79a8');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button{
+    position:absolute;
+    top:50%;
+    left:42%;
+    width:15%;
+}
